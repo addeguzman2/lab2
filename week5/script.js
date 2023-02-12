@@ -180,3 +180,4 @@ function range_slider() {
 		}
 	}
 }
+//
